@@ -5,7 +5,7 @@
   "main": "./build/lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rackt/react-autocomplete.git"
+    "url": "https://github.com/adamblank/react-autocomplete.git"
   },
   "homepage": "https://github.com/rackt/react-autocomplete",
   "bugs": "https://github.com/rackt/react-autocomplete/issues",
